@@ -1,6 +1,5 @@
 import telebot
 
-import sqlite3
 
 bot = telebot.TeleBot('5319883177:AAHLc5bJ9420HUAA7uSvHP07QNkfAeYizdE')
 
